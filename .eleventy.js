@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
     //Tell 11ty to grab and passthrough files to the public folder
     eleventyConfig.addPassthroughCopy('./src/style.css');
     eleventyConfig.addPassthroughCopy('./src/assets');
+    eleventyConfig.addPassthroughCopy('./src/admin');
 
 
     eleventyConfig.addFilter("postDate", (dateObj) => {
