@@ -2,7 +2,7 @@
 title: Creatures of The Night
 description: By Alfred W. Rees
 author: Nolan Donahue
-date: 2023/06/15
+date: 2023-06-15
 tags:
   - post
   - featured
