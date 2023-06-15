@@ -1,0 +1,25 @@
+/* //////////////////////
+Footer
+/////////////////////// */
+          
+.site-footer {
+--logo-color: currentColor;
+padding: 2em 0;
+color: var(--clr-neutral-900);
+background-color: var(--clr-primary-100);
+text-align: center;
+}
+
+.logo-wrap {
+    padding-left: 1rem;
+}
+
+.logo {
+    width: 4rem;
+}
+
+@media (min-width: 400em) {
+    .logo {
+        width: 80rem;
+    }
+}

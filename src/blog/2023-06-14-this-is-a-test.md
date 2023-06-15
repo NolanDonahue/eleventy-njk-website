@@ -2,7 +2,7 @@
 title: This is a Test
 description: Lorem ipsum dolor
 author: Nolan Donahue
-date: 14 JUN 23
+date: 2023-06-14
 tags:
   - post
 image: /assets/blog/330px-moby-dick_fe_title_page.jpg
