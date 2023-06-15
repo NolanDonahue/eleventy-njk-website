@@ -1,7 +1,13 @@
 /* //////////////////////
 Footer
 /////////////////////// */
-          
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
 .site-footer {
 --logo-color: currentColor;
 padding: 2em 0;
