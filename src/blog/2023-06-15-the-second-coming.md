@@ -2,7 +2,7 @@
 title: The Second Coming
 description: By William Butler Yeats
 author: Nolan Donahue
-date: 2023/06/15
+date: 2023-06-15
 tags:
   - post
   - featured
