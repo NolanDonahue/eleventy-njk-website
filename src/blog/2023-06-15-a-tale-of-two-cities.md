@@ -2,7 +2,7 @@
 title: A Tale of Two Cities
 description: Written by Charles Dickens
 author: Nolan Donahue
-date: 2023/06/15
+date: 2023-06-15
 tags:
   - post
 image: https://welltrainedmind.com/wp-content/uploads/Tale-of-Two-Cities-Store.jpg
