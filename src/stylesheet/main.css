@@ -7,6 +7,10 @@ body {
   font-size: var(--fs-400);
   color: var(--clr-neutral-900);
 }
+
+main {
+  min-height: 100vh;
+}
   
 h1,
 h2,
@@ -70,6 +74,11 @@ Individual article page
     margin: 1rem 0;
     font-size: var(--fs-300);
     opacity: .9;
+}
+
+.article_image {
+  height: 100px;
+  width: auto;
 }
 
 /* //////////////////////

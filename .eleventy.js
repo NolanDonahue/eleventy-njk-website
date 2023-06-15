@@ -18,7 +18,8 @@ module.exports = function(eleventyConfig) {
             //Where 11ty is working out of
             input: "src",
             //Where the built files are stored
-            output: "public"
+            output: "public",
+            
         }
     }
 }
