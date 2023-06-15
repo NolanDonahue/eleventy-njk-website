@@ -1,10 +1,11 @@
 ---
-title: This is a Test
-description: Lorem ipsum dolor
+title: Moby Dick
+description: This is a write up on Moby Dick
 author: Nolan Donahue
 date: 2023-06-14
 tags:
   - post
+  - featured
 image: /assets/blog/330px-moby-dick_fe_title_page.jpg
 imageAlt: This is an image
 ---
