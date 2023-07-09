@@ -16,6 +16,10 @@ padding-inline: 1.5em;
 max-width: 72rem;
 }
 
+.grid {
+    display: grid;
+}
+
 .container--narrow {
 max-width: 65rem;
 }

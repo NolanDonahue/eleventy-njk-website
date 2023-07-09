@@ -22,12 +22,14 @@
     <link rel="stylesheet" href="/stylesheet/utility.css">
   </head>
 <body>
+  <div class="page-wrapper grid">
     <!--Look into the files-->
     {% include 'header.njk' %}
     <!--Look into front matter and pull information (the ---)-->
     <main>
     {{ content | safe }} 
     </main>
+  </div>
     {% include 'footer.njk' %}
 
     <script>

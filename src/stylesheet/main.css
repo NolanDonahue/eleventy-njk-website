@@ -54,18 +54,13 @@ Homepage
   }
   
   .featured-articles {
-  background-color: var(--clr-primary-200);
   position: relative;
-  margin-top: 50vh;
+  margin-top: 35em;
 }
   
   .articles__list {
   --flow-spacer: 3rem;
   margin: 6rem 0;
-  }
-  
-  .page-wrapper {
-    position: relative;
   }
 
 /* //////////////////////
@@ -100,6 +95,8 @@ grid-template-areas:
     "meta"
     "body"
     "button";
+padding: 3em;
+border-radius: 5px;
 }
 
 .snippet__image {
