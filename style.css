@@ -16,21 +16,16 @@ TABLE OF CONTENTS
 :root {
     /* Variables */
 
-    --clr-primary-400: blue;
+    --clr-primary-400: #669bbc;
+    --clr-primary-300: #003049;
 
-    --clr-accent-400: rgb(166, 131, 26);
+    --clr-secondary-400: #fdf0d5;
+    --clr-secondary-500: #c1121f;
+    --clr-secondary-600: #780000;
 
     --clr-black: black;
     --clr-white: white;
     --clr-grey: grey;
-
-
-    --clr-primary-400: 263 55% 52%;
-    --clr-secondary-400: 217 19% 35%;
-    --clr-secondary-500: 219 29% 14%;
-    --clr-neutral-100: 0 0% 100%;
-    --clr-neutral-200: 210 46% 95%;
-    --clr-neutral-300: 0 0% 81%;
   
     --ff-primary: "Barlow Semi Condensed", sans-serif;
   
